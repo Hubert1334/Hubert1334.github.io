@@ -12,10 +12,11 @@ h1 {
 	padding: 20px 0;
 }
 
-.aw {
+.menu {
 
 	width: 100vw;
 	margin: 0 auto;
+	padding-right: 5px;
 }
 
 #a:hover {
